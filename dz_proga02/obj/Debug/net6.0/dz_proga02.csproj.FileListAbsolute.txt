@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.csproj.AssemblyReference.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.AssemblyInfo.cs
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\bin\Debug\net6.0\dz_proga02.exe
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\bin\Debug\net6.0\dz_proga02.deps.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\bin\Debug\net6.0\dz_proga02.runtimeconfig.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\bin\Debug\net6.0\dz_proga02.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\bin\Debug\net6.0\dz_proga02.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\refint\dz_proga02.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\dz_proga02.genruntimeconfig.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\DZ_05\dz_proga02\obj\Debug\net6.0\ref\dz_proga02.dll
